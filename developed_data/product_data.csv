@@ -1,0 +1,11 @@
+Product Name,Organisation Name,cost to company,profit,time,manpower
+silenser,Inventory_001,150,50,60,100
+Engine,Inventory_001,1200,500,180,200
+Transmission,Inventory_002,100,60,60,30
+Brake Pads,Inventory_004,50,30,35,30
+Alternator,Inventory_002,250,135,40,150
+Starter Motor,Inventory_006,300,100,160,150
+Suspension System,Inventory_007,100,30,140,50
+Fuel Pump,Inventory_002,20,9,200,50
+Exhaust System,Inventory_009,1000,355,80,300
+Battery,Inventory_010,120,45,30,50
